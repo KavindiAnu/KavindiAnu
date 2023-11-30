@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindianu&label=Profile%20views&color=0e75b6&style=flat" alt="kavindianu" /> </p>
 
-- 🔭 I’m currently working on **frontend develpo**
+- 🔭 I’m currently working on **frontend develpoment**
 
 - 🌱 I’m currently learning **Quality Assurance and Software Testing**
 
