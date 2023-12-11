@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects to enhance skills in real-world IT environments**
 
-- I'm following National Diploma in Information Technology [Institute of Technology University of Moratuwa](Institute of Technology University of Moratuwa)
+- 🎓 I'm following National Diploma in Information Technology [Institute of Technology University of Moratuwa](Institute of Technology University of Moratuwa)
 
 - 💬 Ask me about **React,HTML,CSS**
 
